@@ -1,0 +1,9 @@
+@import "colors";
+@import "header";
+@import "footer";
+@import "resets";
+@import "section";
+body{
+    background-image: url(../views/img/travel.png);
+    color: rgb(93, 93, 219);
+}
